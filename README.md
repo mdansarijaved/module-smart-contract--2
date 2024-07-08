@@ -59,7 +59,7 @@ The updated naming will be stored on the blockchain, and the page will display t
 4. MetaMask
 
 ## Authors
-ex. Mayank Varshney (21BCS7009)
+Md Javed Ansari
 
 ## License
 
